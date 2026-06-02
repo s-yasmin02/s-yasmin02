@@ -1,37 +1,46 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20I'm%20Swetha%20✨&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Student%20%7C%20Developer%20%7C%20Tech%20Enthusiast&descSize=18&descAlignY=52" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Hi%20there!%20I'm%20Swetha%20👋&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Senior%20Software%20Engineer%20%7C%20Tech%20Lead%20%7C%20Mentor&descSize=18&descAlignY=52" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=%F0%9F%92%BB+Building+cool+things+with+code;%F0%9F%8C%B8+Turning+ideas+into+reality;%F0%9F%9A%80+Always+learning%2C+always+growing" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=Building+scalable+systems;Architecting+elegant+solutions;Mentoring+the+next+generation+of+devs" alt="Typing SVG" /></a>
 
 <br/>
 
 <!-- Social Badges -->
-[![GitHub followers](https://img.shields.io/github/followers/s-yasmin02?logo=github&style=for-the-badge&color=a960ff&labelColor=1a1b27)](https://github.com/s-yasmin02)
-[![GitHub Stars](https://img.shields.io/github/stars/s-yasmin02?logo=github&style=for-the-badge&color=f472b6&labelColor=1a1b27)](https://github.com/s-yasmin02)
-[![Profile Views](https://komarev.com/ghpvc/?username=s-yasmin02&style=for-the-badge&color=a960ff&label=PROFILE+VIEWS)](https://github.com/s-yasmin02)
+[![GitHub followers](https://img.shields.io/github/followers/s-yasmin02?logo=github&style=for-the-badge&color=2ea44f)](https://github.com/s-yasmin02)
+[![GitHub Stars](https://img.shields.io/github/stars/s-yasmin02?logo=github&style=for-the-badge&color=e3b341)](https://github.com/s-yasmin02)
+[![Profile Views](https://komarev.com/ghpvc/?username=s-yasmin02&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS)](https://github.com/s-yasmin02)
 
 </div>
 
+---
 
-## 🌸 About Me
+## 👩‍💻 About Me
 
 ```yaml
 name: Swetha Kalutotage
-role: IT Student
+role: Senior Software Engineer
 location: 🌏
-currently_learning: [ "Mobile Development", "Test Automation", "Full-Stack Web Dev" ]
-interests: [ "Android/Kotlin", "Web Applications", "QA & Testing" ]
-fun_fact: "I believe every bug is just a feature in disguise 🐛✨"
+currently_learning: [ "Cloud-Native Architecture", "System Design", "Advanced Kotlin" ]
+interests: [ "Distributed Systems", "Mobile Architecture", "Mentorship" ]
+fun_fact: "I spend more time naming variables than writing algorithms ☕"
 ```
 
-<img align="right" alt="Coding Girl" width="320" src="./assets/anime-girl-coding.png"/>
+<img align="right" alt="Coding Setup" width="320" src="./assets/anime-girl-coding.png"/>
 
+- 💻 **Senior Software Engineer** with a passion for building robust, scalable, and elegant systems.
+- 📱 Architecting and developing **Android applications** using modern Kotlin and Jetpack Compose.
+- 🚀 Strong advocate for **clean code**, **test-driven development**, and automated **CI/CD** pipelines.
+- 🌐 Experienced in creating high-performance full-stack web applications.
+- 🎯 Goal: Lead impactful projects, contribute to open-source, and mentor junior developers.
+- 💬 Ask me about **System Design, Kotlin, Android Architecture, or Testing Strategies**.
+- ⚡ Fun fact: I refactor code for fun and believe every bug is just an undocumented feature in disguise! ✨
 
 <br clear="both"/>
 
+---
 
 ## 🛠️ Tech Stack & Skills
 
@@ -52,7 +61,7 @@ fun_fact: "I believe every bug is just a feature in disguise 🐛✨"
 <p>
 <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
+<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
 <img src="https://img.shields.io/badge/Jetpack%20Compose-%234285F4.svg?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose"/>
 </p>
@@ -68,91 +77,47 @@ fun_fact: "I believe every bug is just a feature in disguise 🐛✨"
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
-### 🧪 Testing
+### 🧪 Testing & DevOps
 <p>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
 <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
 <img src="https://img.shields.io/badge/JUnit5-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
-<img src="https://img.shields.io/badge/Manual%20Testing-%23FF6C37.svg?style=for-the-badge&logo=testcafe&logoColor=white" alt="Manual Testing"/>
+<img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
 </div>
 
+---
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/s-yasmin02/NekoHabits">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=s-yasmin02&repo=NekoHabits&theme=radical&hide_border=true&bg_color=0d1117&title_color=a960ff&icon_color=f472b6&text_color=c9d1d9&cache_seconds=86400" alt="NekoHabits"/>
-</a>
-<a href="https://github.com/s-yasmin02/student-event-management-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=s-yasmin02&repo=student-event-management-system&theme=radical&hide_border=true&bg_color=0d1117&title_color=a960ff&icon_color=f472b6&text_color=c9d1d9&cache_seconds=86400" alt="Student Event Management"/>
-</a>
-<a href="https://github.com/s-yasmin02/Assignment1-ITPM">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=s-yasmin02&repo=Assignment1-ITPM&theme=radical&hide_border=true&bg_color=0d1117&title_color=a960ff&icon_color=f472b6&text_color=c9d1d9&cache_seconds=86400" alt="Assignment1-ITPM"/>
-</a>
-<a href="https://github.com/s-yasmin02/playwright-translator-assignment">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=s-yasmin02&repo=playwright-translator-assignment&theme=radical&hide_border=true&bg_color=0d1117&title_color=a960ff&icon_color=f472b6&text_color=c9d1d9&cache_seconds=86400" alt="Playwright Translator"/>
-</a>
+| 📁 Project | 📝 Description | 🛠️ Tech Stack |
+| :--- | :--- | :--- |
+| [**NekoHabits**](https://github.com/s-yasmin02/NekoHabits) | Android habit tracking application | Kotlin, Jetpack Compose |
+| [**Student Event Management**](https://github.com/s-yasmin02/student-event-management-system) | Platform for managing university events | Full-Stack Web |
+| [**Assignment1-ITPM**](https://github.com/s-yasmin02/Assignment1-ITPM) | IT Project Management system | Java |
+| [**Playwright Translator**](https://github.com/s-yasmin02/playwright-translator-assignment) | Automated testing implementation | Playwright, JS |
 
 </div>
 
+---
 
-## 📊 GitHub Stats & Contributions
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=s-yasmin02&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a960ff&icon_color=f472b6&text_color=c9d1d9&ring_color=a960ff&cache_seconds=86400" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=s-yasmin02&theme=radical&hide_border=true&background=0d1117&ring=a960ff&fire=f472b6&currStreakLabel=a960ff&sideLabels=c9d1d9&dates=555555" alt="GitHub Streak"/>
-
-<br/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-yasmin02&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a960ff&text_color=c9d1d9&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
-
-<br/><br/>
-
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=s-yasmin02&bg_color=0d1117&color=a960ff&line=f472b6&point=ffffff&area=true&area_color=a960ff&hide_border=true&custom_title=📈%20Contribution%20Graph" width="95%" alt="Contribution Graph"/>
-
-</div>
-
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=s-yasmin02&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
-</div>
-
-
-## 🐍 Watch My Contributions Get Eaten
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/s-yasmin02/s-yasmin02/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/s-yasmin02/s-yasmin02/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/s-yasmin02/s-yasmin02/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-</div>
-
-> 💡 *Set up the [Snake Animation GitHub Action](https://github.com/Platane/snk) to auto-generate the contribution snake!*
-
-
-## 🎯 Current Goals for 2026
+## 🎯 Current Focus
 
 <div align="center">
 
-| 🎯 Goal | 📌 Status |
+| 🎯 Initiative | 📌 Status |
 |:---|:---:|
-| 🐱 Complete & publish **NekoHabits** Android app | 🔄 In Progress |
-| 🌐 Build a full-stack portfolio website | 📋 Planned |
-| 🤝 Make my first **open source contribution** | 📋 Planned |
-| 🧪 Master **Playwright & Selenium** test frameworks | 🔄 In Progress |
-| 📱 Learn **Jetpack Compose** advanced patterns | 🔄 In Progress |
-| 💼 Land an **internship** in software development | 🎯 Goal |
+| 🏗️ Architecting scalable microservices | 🔄 In Progress |
+| 🚀 Optimizing CI/CD workflows | 🔄 In Progress |
+| 🤝 Mentoring junior engineers | 🔄 Ongoing |
+| 📱 Advancing Kotlin Multiplatform skills | 🔄 In Progress |
 
 </div>
 
+---
 
 ## 📫 Let's Connect!
 
@@ -160,15 +125,16 @@ fun_fact: "I believe every bug is just a feature in disguise 🐛✨"
 <p>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swethayasmin02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s-yasmin02)
 
 </p>
 
 <br/>
 
-### 💜 Thank you for visiting my profile! 
+### 💻 Thanks for dropping by!
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="500"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="500"/>
 
 <br/>
 
@@ -177,4 +143,4 @@ fun_fact: "I believe every bug is just a feature in disguise 🐛✨"
 </div>
 
 <!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" width="100%"/>
